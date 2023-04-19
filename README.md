@@ -1,4 +1,6 @@
 # Azion CLI
+Hello, It's me!!
+
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![CLI Reference](https://img.shields.io/badge/cli-reference-green.svg)](https://github.com/aziontech/azion-cli/wiki/azioncli)
 [![Go Report Card](https://goreportcard.com/badge/github.com/aziontech/azion-cli)](https://goreportcard.com/report/github.com/aziontech/azion-cli)
